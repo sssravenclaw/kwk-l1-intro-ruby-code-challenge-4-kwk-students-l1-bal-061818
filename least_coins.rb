@@ -9,4 +9,3 @@ quarters = cents/25
 if quarters == 0
   coin_types["quarters"] = 0
 else quarters == 25
-end
